@@ -32,7 +32,7 @@ def convertSentencesToWavFiles(returnSentenceList):
         print(mytext)
         language = "en"
         myobj = gTTS(text=mytext, lang=language, slow=False)
-        theFile = "response" + str(i) + ".wav"
+        theFile = "response" + str(i) + ".mp3"
         myobj.save(theFile)
 
 
@@ -45,11 +45,6 @@ def matchWordsToKeywords(splitSentences, shelterDataDF):
     returnSentence = ""
 
     for sentence in splitSentences:
-
-        if shelter not in sentence:
-
-            returnSentence = "Sorry, I can only help you with shelters."
-            break
 
         for i in range(0, len(sentence)):
 
@@ -100,6 +95,12 @@ def matchWordsToKeywords(splitSentences, shelterDataDF):
 
             returnSentence = "I'm sorry, I didn't understand that. Make sure to tell me what county you are in."
 
+        if "shelter" not in sentence:
+
+            returnSentence = "Sorry, I can only help you with shelters."
+
+        returnSentenceList.append(returnSentence)
+
     print(returnSentenceList)
     convertSentencesToWavFiles(returnSentenceList)
 
@@ -129,3 +130,7 @@ def main():
             print(text)
 
     parseSentencesIntoWords(audioConvertedToTextFiles, shelterDataDF)
+
+
+if __name__ == "__main__":
+    main()

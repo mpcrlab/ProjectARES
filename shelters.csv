@@ -1,0 +1,9 @@
+﻿county,dataid,entrydate,gen_availability,gen_capacity,gen_occupancy,general_pop,incidentid,label,pet_availability,pet_capacity,pet_friendly,pet_occupancy,poc_name,poc_phone,positionid,public_visibility,region,sn_capacity,sn_caregivers,sn_clients,sn_occupancy,sn_staff,special_needs,status,subscribername,x,y
+Collier County,21054,"10/8/2022, 8:09 AM",272,400,128,Yes,N/A,North Collier Regional Park,,,Yes,,Angie Oakley (ARC),912-661-6584,SERT HUMAN SERVICES,show,Region 6,100,,,0,,Yes,Open,FDEM,-9081185.909016108,3035524.3832223
+Orange County,21639,"10/8/2022, 1:53 PM",73,200,128,Yes,N/A,Little Econ Park,,100,Yes,31,,,SERT HUMAN SERVICES,show,Region 5,,,,,,No,Open,FDEM,-9045286.152471712,3311777.449495834
+Hardee County,21667,"10/8/2022, 1:50 PM",,,75,Yes,N/A,Hardee County Department of Health Shelter,,,,,,,SERT HUMAN SERVICES,show,Region 4,,,,,,No,Open,FDEM,-9107277.63918518,3193272.982131721
+Lee County,3502,"10/8/2022, 8:10 AM",4692,5215,523,Yes,N/A,Hertz Arena,0,0,Yes,18,,,SERT HUMAN SERVICES,show,Region 6,0,0,0,0,0,No,Open,FDEM,-9103543.836888,3053765.2156311
+Lee County,3506,"10/8/2022, 2:06 PM",877,1041,164,Yes,N/A,Estero Rec. Center,0,0,Yes,1,,,CNTY Lee LOG,show,Region 6,0,0,0,0,0,No,Open,FDEM,-9106211.977699816,3052257.860234889
+Osceola County,11644,"10/8/2022, 8:15 AM",131,250,119,Yes,N/A,Osceola Heritage Park Silver Spurs Arena - Arena,0,0,Yes,0,Ricardo Sanabria,4077843937,SERT HUMAN SERVICES,show,Region 5,0,0,0,0,0,No,Open,FDEM,-9057974.23671284,3286633.146950417
+Volusia County,21332,"10/8/2022, 11:34 AM",1296,1500,201,Yes,N/A,Ocean Center,60,100,Yes,40,Tom Cisco,386-341-5602,SERT HUMAN SERVICES,show,Region 5,500,,,4,10,Yes,Open,FDEM,-8264002.440163618,4802575.819461596
+Osceola County,21477,"10/8/2022, 11:43 AM",,,,No,N/A,Osceola Heritage Park - Event Center,,,Yes,,GeorgiaAnn Cherry,4077429013,SERT HUMAN SERVICES,show,Region 5,200,0,,29,,Yes,Open,FDEM,-9057974.23671284,3286633.146950417
