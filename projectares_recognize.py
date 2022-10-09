@@ -123,7 +123,11 @@ def main():
 
             audio_data = r.record(source)
 
-            text = r.recognize_google(audio_data).lower()
+            try:
+                text = r.recognize_google(audio_data).lower()
+            except:
+                print("Recognition Error")
+                text = "Error"
 
             audioConvertedToTextFiles.append(text)
 
