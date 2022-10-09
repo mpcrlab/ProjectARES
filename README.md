@@ -11,3 +11,4 @@ Dependencies:
  * [GNURadio](https://www.gnuradio.org/)
  * [HackRF](https://greatscottgadgets.com/hackrf/one/)
  
+Emergency Resource Data collected from https://floridadisaster.maps.arcgis.com/apps/webappviewer/index.html?id=f5628cfc02ca42b4a3853c69d8ff804b
