@@ -3,6 +3,8 @@ Project ARES: Automated Radio Emergency Response
 
 Presented by some [MPCR Lab](https://mpcrlab.com/) members for the [South Florida Tech Hub 2022 Hackathon](https://techhubsouthflorida.org/meetups/hackathon/). 
 
+_**Update**: The team received an honorable mention for "Great Expectation [sic] + Demo"_
+
 Dependencies:
  * [gTTS](https://pypi.org/project/gTTS/)
  * Speech to text
