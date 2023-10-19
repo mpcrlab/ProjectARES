@@ -2,6 +2,7 @@
 Project ARES: Automated Radio Emergency Response
 
 Presented by some [MPCR Lab](https://mpcrlab.com/) members for the [South Florida Tech Hub 2022 Hackathon](https://techhubsouthflorida.org/meetups/hackathon/). 
+
 Lab Members: Austin Beard, Morgan Benavidez, Emily Chamberlain, Jennifer Giordano & Misha Klopukh
 _**Update**: The team received an honorable mention for "Great Expectation [sic] + Demo"_
 
